@@ -16,7 +16,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://blahahaustin.github.io/fcc-weather-app",
+  "homepage": "https://blahahaustin.github.io/single-page-weather",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
