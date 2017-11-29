@@ -1,0 +1,37 @@
+* {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  /*font-family: 'Roboto', sans-serif;*/
+  /*font-family: 'Slabo 27px', serif;*/
+  color: #d66839;
+  background-color: #fff0a5;
+}
+
+.col-12 {
+  /*border: solid blue;*/
+}
+
+.row {
+  max-height: 100vh;
+}
+
+.header {
+  font-size: 4.5vw;
+}
+
+.location {
+  font-size: 6vw;
+  text-transform: uppercase;
+}
+
+.icon {
+  font-size: 25vh;
+}
+
+.weather {
+  font-size: 4.5vw;
+}
+
+.temperature {
+  font-size: 6vw;
+}
